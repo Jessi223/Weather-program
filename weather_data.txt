@@ -1,0 +1,6 @@
+Johannesburg,28,60,10
+Cape Town,24,50,5
+Durban,34,70,15
+Pretoria,26,40,8
+Bloemfontein,21,30,3
+New Castle,28,41,7
